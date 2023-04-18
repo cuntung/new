@@ -2,13 +2,15 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: Arial, sans-serif;
-	background-color: #f4f4f4;
+	background-color: #cec9ee;
 }
 
 header {
-	background-color: #333;
+	background-color: green;
 	color: #fff;
-	padding: 20px;
+	padding: 20px 50px 20px;
+    position: sticky;
+
 }
 
 nav ul {
